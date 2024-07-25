@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "name": "root",
+            "path": "."
+        },
+        {
+            "name": "subfolder",
+            "path": "./subfolder"
+        }
+    ],
+    "settings": {
+        "ruff.configuration": "${workspaceFolder:root}/ruff.toml"
+    }
+}
